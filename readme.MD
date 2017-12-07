@@ -1,6 +1,6 @@
 Environment: Python 3.6, OpenCV 3.3 Pytorch
 
-All the testing data can be found in
+All the testing data and the complete training data can be found in
 https://github.com/yaoyanglin/EECS442_final_project
 
 Detection Part:
