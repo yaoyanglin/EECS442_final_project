@@ -1,5 +1,8 @@
 Environment: Python 3.6, OpenCV 3.3 Pytorch
 
+All the testing data can be found in
+https://github.com/yaoyanglin/EECS442_final_project
+
 Detection Part:
 
 Put mser.py in any folder $ROOT, then create a folder $ROOT/test_detection, and put all the test images inside ROOT/test_detection, and run mser.py. Then you are expected to see Sample directories created with dict.txt containing possible grouped results, and detection.txt containing useful images for testing accuracy.
@@ -26,3 +29,4 @@ eigenSpace.m : this file will not run if you directly run the 'runThisFile'. Thi
 Recoginition part:
 Run train.py to get the_train_model.pkl in $ROOT folder
 Run testing.py to get accuracy of predicting characters. The testing data is in $ROOT/test,
+
