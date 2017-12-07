@@ -6,6 +6,7 @@ Put mser.py in any folder $ROOT, then create a folder $ROOT/test_detection, and 
 If you want to test mser.py on accuracy, please rename the test image as {number of icons or letters or digits}.{anything}.jpg, and mannually add number of correct detected letters/digits/icons to the third line of detection.py in every Sample{index} directory, and run accuracy.py
 
 ####################################################################
+
 Eigenspace Part:
 If you want just result, run 'runThisFile.m'
 The name of test set should be ImageTest, which is already written in ‘runThisFile’.
@@ -21,6 +22,7 @@ runThisFile.m : This file will give you the result of detection using above file
 eigenSpace.m : this file will not run if you directly run the 'runThisFile'. This file shows how the eigen space is made.
 
 ####################################################################
+
 Recoginition part:
 Run train.py to get the_train_model.pkl in $ROOT folder
 Run testing.py to get accuracy of predicting characters. The testing data is in $ROOT/test,
