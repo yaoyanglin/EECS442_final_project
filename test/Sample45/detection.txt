@@ -1,0 +1,10 @@
+filenametest/7.JPG
+#Bboxes:7
+6
+Y
+A
+W
+?
+O
+N
+E

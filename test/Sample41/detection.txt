@@ -1,0 +1,7 @@
+filenametest/5.1.JPG
+#Bboxes:4
+3
+P
+M
+H
+?

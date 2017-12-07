@@ -1,0 +1,8 @@
+filenametest/5.5.JPG
+#Bboxes:5
+3
+?
+?
+0
+6
+5

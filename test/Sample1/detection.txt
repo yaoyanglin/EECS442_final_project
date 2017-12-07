@@ -1,0 +1,14 @@
+filenametest/10.11.JPG
+#Bboxes:11
+10
+D
+E
+E
+P
+S
+I
+T
+M
+I
+L
+?
