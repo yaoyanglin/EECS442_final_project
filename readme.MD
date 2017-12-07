@@ -1,4 +1,4 @@
-Environment: Python 3.6, OpenCV 3.3
+Environment: Python 3.6, OpenCV 3.3 Pytorch
 
 Detection Part:
 
